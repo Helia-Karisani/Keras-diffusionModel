@@ -239,7 +239,6 @@ The repository includes the following renderable figure:
 
 ![Evaluation Output](evaluation-output.png)
 
-This image will render on GitHub as long as `evaluation-output.png` stays in the repository root next to `README.md`.
 
 ## Summary
 
