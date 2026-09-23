@@ -7,7 +7,7 @@ Get the MNIST dataset ready for training by scaling its pixel intensities and re
 
 ## Overview
 
-This project builds a convolutional image reconstruction model on the MNIST handwritten digit dataset. Although the notebook refers to it as a diffusion model, the implementation is technically much closer to a denoising autoencoder than to a true diffusion model.
+This project builds a convolutional image reconstruction model on the MNIST handwritten digit dataset.
 
 The workflow is:
 
