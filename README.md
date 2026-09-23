@@ -229,9 +229,9 @@ More specifically, it uses:
 
 ## Files in the Repository
 
-- `Keras-diffusionModel.ipynb` — main notebook
-- `README.md` — project documentation
-- `evaluation-output.png` — figure showing the evaluation results
+- `Keras-diffusionModel.ipynb`, main notebook
+- `README.md`, project documentation
+- `evaluation-output.png`, figure showing the evaluation results
 
 ## Figure
 
